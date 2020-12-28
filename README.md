@@ -13,7 +13,7 @@
 //Add source code and javadoc if required.
 
 ```
-  <plugin>
+			<plugin>
 				<artifactId>maven-source-plugin</artifactId>
 				<executions>
 					<execution>
