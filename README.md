@@ -41,6 +41,7 @@
 ### Step2: push to github
 
 ### Step3: Settings>> Github Pages>>> source to main.
+![Alt text](https://github.com/cyx441984694/liaoxufeng-maven-plugin/blob/main/GithubPage.PNG)
 
 ##  When you want to use that artifact
 ### Step1: Add <repository> and <dependency> to POM
